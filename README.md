@@ -7,7 +7,7 @@ Definition of Problem: This is a binary classification problem that predicts whi
 .
 
 
-Dataset: Dataset of 10,000 tweets that were hand classified as real-disasters(1) and not real(0) in which the author explicitly uses the words associated with disaster. The dataset for may contain text that may be considered profane, vulgar, or offensive.
+Dataset: Dataset of 10,000 tweets that were hand classified as real-disasters(1) and not real(0) in which the author explicitly uses a word associated with disaster. The dataset may contain text that may be considered profane, vulgar, or offensive.
 
 
 
