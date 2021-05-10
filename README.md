@@ -8,4 +8,7 @@ Dataset: Dataset of 10,000 tweets that were hand classified as real-disasters(1)
 
 
 
-Feature Engineering & Data Cleansing: 
+Feature Engineering:
+
+
+Data Cleansing: The tweets was processed to return list of words(Tokens), cleaned by removing punctiations and stopwords, and the tokens processed further by grouping together the inflected forms of a word so that they are analyzed as a single term/word (lemmatizing).
