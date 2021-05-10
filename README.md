@@ -19,4 +19,4 @@ Data Cleansing: The tweets was processed to return list of words(Tokens), cleane
 
 
 
-Model Building:
+Model Building: The cleaned tweets were encoded as integers to create feature vectors for Machine Learning by using count vectorization with N-grams(1,2). The model is based on the Multinomial Naive Bayes Classifier.
