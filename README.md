@@ -11,7 +11,7 @@ Dataset: Dataset has about 10,000 tweets that were hand classified as real-disas
 
 
 
-Feature Engineering: Two new features were created from the tweets, namely text(tweet) length and percentage of punction in tweet. A third feature, which is a cross feature of the tweet lenth and the percentage punctuation was also created.
+Feature Engineering: Two new features were created from the tweets, namely text(tweet) length and percentage of punction in tweet. A third feature, which is a cross feature of the tweet length and the percentage punctuation was also created.
 
 
 
